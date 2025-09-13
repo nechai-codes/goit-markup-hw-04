@@ -6,7 +6,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 
@@ -56,7 +56,9 @@ a {
 
 .page-header {
     border-bottom: 1px solid #e7e9fc;
-    box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
+    box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 
+    0 1px 1px 0 rgba(46, 47, 66, 0.16), 
+    0 2px 1px 0 rgba(46, 47, 66, 0.08);
 }
 
 
@@ -208,7 +210,7 @@ a {
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 
 
@@ -220,7 +222,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #fff;
+    color: #ffffff;
     cursor: pointer;
     border-radius: 4px;
     padding: 16px 32px;
@@ -321,8 +323,7 @@ a {
 
 .team-item {
     display: block;
-
-    border-radius: 0 0 4px 4px;
+    border-radius: 0px 0px 4px 4px;
     text-align: center;
     background-color: #ffffff;
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
@@ -331,7 +332,7 @@ a {
 }
 
 .team-info {
-    padding: 32px 0;
+    padding: 32px 0px 32px 0px;
 }
 
 .team-name {
@@ -435,6 +436,7 @@ a {
 }
 
 
+.container {}
 
 
 .footer-logo {
