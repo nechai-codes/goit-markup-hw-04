@@ -1,6 +1,5 @@
 :root {
     --social-link-color: #4d5ae5;
-    --social-link-hover: #404bbf;
     --team-icon-color: #f4f4fd;
 }
 
@@ -381,7 +380,7 @@ a {
 
 .social-link:hover,
 .social-link:focus {
-    background-color: var(--social-link-hover);
+    background-color: #404bbf;
 }
 /* -------------------------PORTFOLIO-------------------- */
 
@@ -436,7 +435,6 @@ a {
 }
 
 
-.container {}
 
 
 .footer-logo {
