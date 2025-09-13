@@ -1,6 +1,7 @@
 :root {
     --social-link-color: #4d5ae5;
     --team-icon-color: #f4f4fd;
+    --footer-text-color: #ffffff;
 }
 
 body {
@@ -484,7 +485,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
+    color: var(--footer-text-color);
 }
 
 /* --------social FOOTER-------------------- */
