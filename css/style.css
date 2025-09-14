@@ -464,7 +464,7 @@ a {
     background-color: #2e2f42;
 }
 
-.container {
+.page-footer .container {
     display: flex;
     align-items: baseline;
     /* вирівнювання по базовій лінії */
