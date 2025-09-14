@@ -336,7 +336,7 @@ a {
 }
 
 .team-info {
-    padding: 32px 0;
+    padding: 32px 0 32px 0;
 }
 
 .team-name {
@@ -346,10 +346,6 @@ a {
 .team-position {
     color: #434455;
     margin-bottom: 8px;
-}
-
-.team-social {
-    padding: 8px 24px 32px;
 }
 
 .social-list {
@@ -501,7 +497,7 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #f4f4fd;
+    color: #fff;
     margin-bottom: 16px;
 }
 
