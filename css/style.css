@@ -490,7 +490,11 @@ a {
 
 /* --------social FOOTER-------------------- */
 
-.footer-socials {}
+.footer-socials {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
 
 .social-title-footer {
     font-weight: 500;
